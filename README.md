@@ -18,7 +18,7 @@ Click Devour Button
 <img width="1680" alt="screen shot 2019-01-30 at 8 32 26 pm" src="https://user-images.githubusercontent.com/43328718/52026712-78334680-24ce-11e9-9159-80fb2cb8f198.png">
 
 Favorite Burger has been moved to Devour section
-
+<img width="1680" alt="screen shot 2019-01-30 at 8 37 52 pm" src="https://user-images.githubusercontent.com/43328718/52027039-9483b300-24cf-11e9-926c-e3bc278e2a4e.png">
 
 
 
