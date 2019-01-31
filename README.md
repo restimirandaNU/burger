@@ -24,3 +24,4 @@ Technologies used:
 
 Author:
 Resti Miranda
+NU Coding Bootcamp
