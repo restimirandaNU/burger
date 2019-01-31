@@ -57,3 +57,6 @@ Author:
 Resti Miranda
 
 NU Coding Bootcamp
+
+linked to Portfolio: https://restimirandanu.github.io/polishedPortfolio/#/portfolio
+
