@@ -8,6 +8,7 @@ CREATE TABLE burgers (
     PRIMARY KEY (id)
 );
 
+
 INSERT INTO burgers (burger_name, devoured) VALUES ('Fish Burger', FALSE);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Taco Burger', FALSE);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Mushroom Burger', FALSE);
