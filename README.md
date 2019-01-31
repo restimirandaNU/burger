@@ -24,6 +24,7 @@ Favorite Burger has been moved to Devour section
 
 
 Technologies used:
+
 -Node.js
 -MySQL
 -Handlebars - http://handlebarsjs.com/
