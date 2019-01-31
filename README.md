@@ -23,6 +23,7 @@ Main page
 <img width="1680" alt="screen shot 2019-01-30 at 8 31 52 pm" src="https://user-images.githubusercontent.com/43328718/52026699-6c478480-24ce-11e9-9c3c-3f3cd82a4c1f.png">
 
 Enter your favorite burger
+<img width="1680" alt="screen shot 2019-01-31 at 2 44 48 am" src="https://user-images.githubusercontent.com/43328718/52042343-8e5afa00-2502-11e9-821f-3a56f5dc12c5.png">
 
 
 Click Devour Button
