@@ -1,4 +1,5 @@
-EAT DA BURGER HOMEWORK
+Title: EAT DA BURGER HOMEWORK
+
 GOAL: 
 The goal was to create a Burger App using Node Express Handlebars and our own ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app and Handlebars to generate the HTML.
 
@@ -17,7 +18,6 @@ Click Devour Button
 <img width="1680" alt="screen shot 2019-01-30 at 8 32 26 pm" src="https://user-images.githubusercontent.com/43328718/52026712-78334680-24ce-11e9-9159-80fb2cb8f198.png">
 
 Favorite Burger has been moved to Devour section
-<img width="1680" alt="screen shot 2019-01-30 at 8 32 37 pm" src="https://user-images.githubusercontent.com/43328718/52026860-fbed3300-24ce-11e9-99c1-dbb370dea8a0.png"
 
 
 
