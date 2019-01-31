@@ -1,0 +1,35 @@
+.jumbotron{
+    background-color: wheat;
+    color: black;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.panel-default>.panel-heading {
+    color: black;
+    background-color: white;
+}
+
+.intro{
+    background-color: wheat;
+    color: black;
+    width: 400px;
+    text-align: center;
+}
+
+img{
+    vertical-align: middle;
+    width: 200px;
+    padding: 10px
+}
+
+h1{
+    font-family: Barrio;
+    font-size: 52px;
+    text-align: center;
+}
+
+body{
+    background-color: #f9f5d2;
+    background-image: url("/assets/img/burgerBackground.jpg")
+}
