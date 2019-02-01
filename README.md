@@ -15,7 +15,7 @@ Description:
 * The app will store every burger in a database, whether devoured or not.
 
 Heroku link:
-https://daburger-restimiranda-jawsdb1.herokuapp.com/
+https://restimiranda-burger-live1.herokuapp.com/
 
 Screen shots:
 
